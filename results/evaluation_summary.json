@@ -1,0 +1,22 @@
+{
+  "random": {
+    "rewards": 58.50445026196885,
+    "fairness": 0.7645363457136121,
+    "throughput": 0.11842857884604112,
+    "satisfaction": 0.057179999999999974
+  },
+  "fixed": {
+    "rewards": 57.18406197973504,
+    "fairness": 0.6734975576400757,
+    "throughput": 0.13322103023529053,
+    "satisfaction": 0.10555999999999989
+  },
+  "dqn": {
+    "rewards": 64.69923989076416,
+    "fairness": 0.8718540622594211,
+    "throughput": 0.11083457545193286,
+    "satisfaction": 0.06253999999999993
+  },
+  "dqn_vs_random_pct": 10.59,
+  "dqn_vs_fixed_pct": 13.14
+}
